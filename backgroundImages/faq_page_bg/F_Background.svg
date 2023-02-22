@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="1532" viewBox="0 0 1280 1532">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_168" data-name="Rectangle 168" width="1280" height="1532" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e63e2c"/>
+      <stop offset="0.06" stop-color="#c93c2f"/>
+      <stop offset="0.167" stop-color="#9d3b34"/>
+      <stop offset="0.278" stop-color="#763a39"/>
+      <stop offset="0.393" stop-color="#57383d"/>
+      <stop offset="0.512" stop-color="#3f3840"/>
+      <stop offset="0.638" stop-color="#2e3742"/>
+      <stop offset="0.774" stop-color="#243743"/>
+      <stop offset="0.941" stop-color="#213744"/>
+    </linearGradient>
+  </defs>
+  <g id="First_Background" data-name="First Background" clip-path="url(#clip-path)">
+    <g id="Group_1984" data-name="Group 1984">
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="1280" height="2190" transform="translate(1280 2190) rotate(180)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
