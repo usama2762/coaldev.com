@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="607" viewBox="0 0 1280 607">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_169" data-name="Rectangle 169" width="1280" height="607" transform="translate(0 3627)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#213744"/>
+      <stop offset="0.132" stop-color="#65393b"/>
+      <stop offset="0.252" stop-color="#9c3b34"/>
+      <stop offset="0.355" stop-color="#c43c30"/>
+      <stop offset="0.437" stop-color="#dd3d2d"/>
+      <stop offset="0.486" stop-color="#e63e2c"/>
+      <stop offset="0.533" stop-color="#de3d2c"/>
+      <stop offset="0.605" stop-color="#c93c2f"/>
+      <stop offset="0.692" stop-color="#a63b33"/>
+      <stop offset="0.791" stop-color="#763a39"/>
+      <stop offset="0.9" stop-color="#393740"/>
+      <stop offset="0.941" stop-color="#213744"/>
+    </linearGradient>
+  </defs>
+  <g id="Fourth_Background" data-name="Fourth Background" transform="translate(0 -3627)" clip-path="url(#clip-path)">
+    <g id="Group_255" data-name="Group 255" transform="translate(54 -1119)">
+      <rect id="Rectangle_54" data-name="Rectangle 54" width="1280" height="1728" transform="translate(-54 3826)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
