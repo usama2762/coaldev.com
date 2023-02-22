@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="776" viewBox="0 0 1280 776">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_12845" data-name="Path 12845" d="M0,0H1280V776H0Z" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e63e2c"/>
+      <stop offset="0.06" stop-color="#c93c2f"/>
+      <stop offset="0.167" stop-color="#9d3b34"/>
+      <stop offset="0.278" stop-color="#763a39"/>
+      <stop offset="0.393" stop-color="#57383d"/>
+      <stop offset="0.512" stop-color="#3f3840"/>
+      <stop offset="0.638" stop-color="#2e3742"/>
+      <stop offset="0.774" stop-color="#243743"/>
+      <stop offset="0.941" stop-color="#213744"/>
+    </linearGradient>
+  </defs>
+  <g id="Background_Image_1" data-name="Background Image 1" clip-path="url(#clip-path)">
+    <rect id="Background_1" data-name="Background 1" width="1280" height="2322" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
