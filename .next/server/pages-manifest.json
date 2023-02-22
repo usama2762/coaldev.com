@@ -1,0 +1,18 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html",
+  "/api/hello": "pages/api/hello.js",
+  "/blog": "pages/blog.html",
+  "/career": "pages/career.html",
+  "/casestudies": "pages/casestudies.html",
+  "/contact": "pages/contact.html",
+  "/faq": "pages/faq.html",
+  "/": "pages/index.html",
+  "/innerpage/[id]": "pages/innerpage/[id].html",
+  "/innerpage2/[id]": "pages/innerpage2/[id].html",
+  "/pricingpage": "pages/pricingpage.html",
+  "/services": "pages/services.html",
+  "/technologies": "pages/technologies.html",
+  "/_document": "pages/_document.js"
+}
