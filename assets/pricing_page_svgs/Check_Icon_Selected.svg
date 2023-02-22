@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="Check_Icon_Selected" data-name="Check Icon Selected" transform="translate(-98.834 -842)">
+    <circle id="Ellipse_102" data-name="Ellipse 102" cx="9" cy="9" r="9" transform="translate(98.834 842)" fill="#e63e2c"/>
+    <g id="Group_3562" data-name="Group 3562" transform="translate(102.834 847)">
+      <path id="Path_13207" data-name="Path 13207" d="M349.376,641.08a.743.743,0,0,0-.528-.256h-.01a1.225,1.225,0,0,0-.81.416c-.493.483-.989.982-1.469,1.464l-.441.443L344.274,645l-1.046,1.052-.213-.228c-.177-.189-.347-.374-.513-.555-.365-.4-.71-.774-1.072-1.131a1.074,1.074,0,0,0-.713-.36.877.877,0,0,0-.8.779,1.083,1.083,0,0,0,.362.748c.753.776,1.542,1.557,2.223,2.227.616.607.952.606,1.566,0q1.8-1.791,3.6-3.592l1.55-1.55C349.681,641.894,349.736,641.455,349.376,641.08Z" transform="translate(-339.917 -640.824)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
