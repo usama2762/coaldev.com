@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="565" height="474.364" viewBox="0 0 565 474.364">
+  <g id="Text" transform="translate(-150.833 -164.915)">
+    <text id="oops" transform="translate(168.431 321.915)" fill="#fff" font-size="165" font-family="NexaRustSans-Black, Nexa Rust Sans" font-weight="800"><tspan x="0" y="0">oops</tspan></text>
+    <text id="something_went_wrong_here" data-name="something went wrong here" transform="translate(180.587 367.279)" fill="#fff" font-size="26" font-family="NexaRustSans-Black, Nexa Rust Sans" font-weight="800"><tspan x="0" y="0">something went wrong here</tspan></text>
+    <text id="PAGE_NOT_FOUND" data-name="PAGE NOT FOUND" transform="translate(300.932 626.279)" fill="#fff" font-size="26" font-family="NexaRustSans-Black, Nexa Rust Sans" font-weight="800"><tspan x="0" y="0">PAGE NOT FOUND</tspan></text>
+    <text id="_404" data-name="404" transform="translate(150.833 575.279)" fill="#fff" font-size="255" font-family="NexaRustSans-Black, Nexa Rust Sans" font-weight="800"><tspan x="0" y="0">404</tspan></text>
+  </g>
+</svg>
