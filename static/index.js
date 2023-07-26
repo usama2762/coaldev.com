@@ -318,11 +318,7 @@ export const Boxes = {
       {
         "imgurl": "/backgroundImages/career_page_svgs/Dinner.svg",
         "text": 'Dinner'
-      },
-      {
-        "imgurl": "/backgroundImages/career_page_svgs/Dinner.svg",
-        "text": 'Dinner'
-      }, 
+      }
     ]
 };
 
