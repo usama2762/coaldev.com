@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="357.127" height="231.132" viewBox="0 0 357.127 231.132">
+  <g id="Orange_Bottom_Orbit" data-name="Orange Bottom Orbit" opacity="0.4">
+    <circle id="Ellipse_100" data-name="Ellipse 100" cx="85.037" cy="85.037" r="85.037" transform="translate(55.984 148.837) rotate(-61.061)" fill="#c74131"/>
+    <ellipse id="Ellipse_101" data-name="Ellipse 101" cx="9.262" cy="185.043" rx="9.262" ry="185.043" transform="translate(0 68.474) rotate(-71.666)" fill="#fff"/>
+    <path id="Path_13179" data-name="Path 13179" d="M402.873,362.132c-.554,1.673-11.694-.512-24.878-4.88s-23.426-9.269-22.872-10.945,11.694.512,24.881,4.88S403.429,360.457,402.873,362.132Z" transform="translate(-178.514 -301.827)" fill="#fff"/>
+    <path id="Path_13180" data-name="Path 13180" d="M389.943,374.813c-1.2,3.623-12.863,3.016-26.049-1.355s-22.9-10.847-21.7-14.467,12.86-3.016,26.047,1.355S391.14,371.192,389.943,374.813Z" transform="translate(-197.372 -286.055)" fill="#fff"/>
+    <path id="Path_13181" data-name="Path 13181" d="M400.617,401.643c-.6,1.81-11.775-.265-24.961-4.635s-23.389-9.377-22.789-11.19,11.775.265,24.961,4.635S401.217,399.832,400.617,401.643Z" transform="translate(-181.79 -244.686)" fill="#fff"/>
+    <path id="Path_13182" data-name="Path 13182" d="M378.715,409.382c-1.475,4.451-13.36,4.517-26.546.147s-22.678-11.518-21.2-15.969,13.36-4.517,26.546-.147S380.19,404.931,378.715,409.382Z" transform="translate(-213.721 -237.416)" fill="#fff"/>
+  </g>
+</svg>
