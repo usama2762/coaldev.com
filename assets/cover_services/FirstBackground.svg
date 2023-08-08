@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="1920" viewBox="0 0 1280 1920">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#213744"/>
+      <stop offset="0.132" stop-color="#65393b"/>
+      <stop offset="0.252" stop-color="#9c3b34"/>
+      <stop offset="0.355" stop-color="#c43c30"/>
+      <stop offset="0.437" stop-color="#dd3d2d"/>
+      <stop offset="0.486" stop-color="#e63e2c"/>
+      <stop offset="0.533" stop-color="#de3d2c"/>
+      <stop offset="0.605" stop-color="#c93c2f"/>
+      <stop offset="0.692" stop-color="#a63b33"/>
+      <stop offset="0.791" stop-color="#763a39"/>
+      <stop offset="0.9" stop-color="#393740"/>
+      <stop offset="0.941" stop-color="#213744"/>
+    </linearGradient>
+  </defs>
+  <rect id="First_background" data-name="First background" width="1280" height="1920" fill="url(#linear-gradient)"/>
+</svg>
